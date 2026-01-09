@@ -26,6 +26,8 @@ TestResults.xml
 *.vcd
 *.vvp
 *_sim
+test_quick
+test_*_sim
 *.out
 
 # Waveform viewer
