@@ -37,4 +37,4 @@ test_*_sim
 *.log
 *.jed
 *.bit
-*.bin
+*.bintest_fixed
