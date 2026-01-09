@@ -20,3 +20,19 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+### Verilog/FPGA ###
+# Simulation outputs
+*.vcd
+*.vvp
+*_sim
+*.out
+
+# Waveform viewer
+*.gtkw
+
+# Synthesis outputs
+*.log
+*.jed
+*.bit
+*.bin
